@@ -1,12 +1,21 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
 import profile from '../../assets/images/profile.png'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const ExerciseDetails = ({exerciseTime}) => {
     const [breakTime, setBreakTime] = useState(0);
 
     const handleBreakTime = seconds =>{
         setBreakTime(seconds);
+    }
+
+    const handleToast = () =>{
+        toast.success('Your activity complete', {
+            position: 'top-center'
+        })
     }
     return (
         <div className="md:w-1/4">
@@ -63,8 +72,9 @@ const ExerciseDetails = ({exerciseTime}) => {
             </div>
 
             <div className='mt-10'>
-                <button className="btn btn-primary w-full">Activity Complete</button>
+                <button className="btn btn-primary w-full" onClick={handleToast}>Activity Complete</button>
             </div>
+            <ToastContainer></ToastContainer>
         </div>
     );
 };
