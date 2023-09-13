@@ -1,19 +1,11 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co/vhRtjkP/football-player-training.jpg",
+    "cover": "https://i.ibb.co/zbkwC4D/portrait-young-female-soccer-player-running-around-cones-while-practicing-with-ball-field.jpg",
     "title": "Dribbling Drills",
     "short_description": "Improve your dribbling skills with these drills.",
     "age": "10-14",
-    "time": "30 minutes",
-    "author": {
-      "name": "John Doe",
-      "img": "john_doe.jpg",
-      "address": "123 Main Street, City, Country",
-      "weight": "170 lbs",
-      "height": "6'2\"",
-      "age": 35
-    }
+    "time": 30
   },
   {
     "id": 2,
@@ -21,15 +13,7 @@
     "title": "Passing Precision",
     "short_description": "Enhance your passing accuracy with these exercises.",
     "age": "15-18",
-    "time": "45 minutes",
-    "author": {
-      "name": "Jane Smith",
-      "img": "jane_smith.jpg",
-      "address": "456 Elm Street, City, Country",
-      "weight": "150 lbs",
-      "height": "5'9\"",
-      "age": 28
-    }
+    "time": 45
   },
   {
     "id": 3,
@@ -37,31 +21,15 @@
     "title": "Shooting Skills",
     "short_description": "Develop your shooting skills with these drills.",
     "age": "8-12",
-    "time": "20 minutes",
-    "author": {
-      "name": "Michael Johnson",
-      "img": "michael_johnson.jpg",
-      "address": "789 Oak Street, City, Country",
-      "weight": "160 lbs",
-      "height": "6'0\"",
-      "age": 40
-    }
+    "time": 20
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co/g4qC0Mb/football-player-tackling-ball-green-grass.jpg",
+    "cover": "https://i.ibb.co/9rFzLFv/football-trainer-teaching-his-pupils-1.jpg",
     "title": "Defensive Techniques",
     "short_description": "Learn effective defensive strategies for football.",
     "age": "14-17",
-    "time": "60 minutes",
-    "author": {
-      "name": "Sarah Brown",
-      "img": "sarah_brown.jpg",
-      "address": "101 Pine Street, City, Country",
-      "weight": "145 lbs",
-      "height": "5'7\"",
-      "age": 32
-    }
+    "time": 60
   },
   {
     "id": 5,
@@ -69,15 +37,7 @@
     "title": "Goalkeeper Drills",
     "short_description": "Improve your goalkeeping skills with these exercises.",
     "age": "12-16",
-    "time": "40 minutes",
-    "author": {
-      "name": "David Wilson",
-      "img": "david_wilson.jpg",
-      "address": "222 Maple Street, City, Country",
-      "weight": "180 lbs",
-      "height": "6'3\"",
-      "age": 36
-    }
+    "time": 40
   },
   {
     "id": 6,
@@ -85,14 +45,6 @@
     "title": "Speed and Agility",
     "short_description": "Enhance your speed and agility on the football field.",
     "age": "10-15",
-    "time": "30 minutes",
-    "author": {
-      "name": "Emily Davis",
-      "img": "emily_davis.jpg",
-      "address": "333 Cedar Street, City, Country",
-      "weight": "135 lbs",
-      "height": "5'6\"",
-      "age": 29
-    }
+    "time": 30
   }
 ]

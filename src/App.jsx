@@ -1,11 +1,16 @@
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import ExerciseDetails from './components/ExerciseDetails/ExerciseDetails'
 
 function App() {
 
   return (
     <>
       
-      <h1>Hello World</h1>
+      <div className='container mx-auto md:flex justify-between mt-3 gap-10'>
+        <Blogs></Blogs>
+        <ExerciseDetails></ExerciseDetails>
+      </div>
      
     </>
   )
