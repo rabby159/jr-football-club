@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "cover": "exercise1.jpg",
+    "title": "Dribbling Drills",
+    "short_description": "Improve your dribbling skills with these drills.",
+    "age": "10-14",
+    "time": "30 minutes",
+    "author": {
+      "name": "John Doe",
+      "img": "john_doe.jpg",
+      "address": "123 Main Street, City, Country",
+      "weight": "170 lbs",
+      "height": "6'2\"",
+      "age": 35
+    }
+  },
+  {
+    "id": 2,
+    "cover": "exercise2.jpg",
+    "title": "Passing Precision",
+    "short_description": "Enhance your passing accuracy with these exercises.",
+    "age": "15-18",
+    "time": "45 minutes",
+    "author": {
+      "name": "Jane Smith",
+      "img": "jane_smith.jpg",
+      "address": "456 Elm Street, City, Country",
+      "weight": "150 lbs",
+      "height": "5'9\"",
+      "age": 28
+    }
+  },
+  {
+    "id": 3,
+    "cover": "exercise3.jpg",
+    "title": "Shooting Skills",
+    "short_description": "Develop your shooting skills with these drills.",
+    "age": "8-12",
+    "time": "20 minutes",
+    "author": {
+      "name": "Michael Johnson",
+      "img": "michael_johnson.jpg",
+      "address": "789 Oak Street, City, Country",
+      "weight": "160 lbs",
+      "height": "6'0\"",
+      "age": 40
+    }
+  },
+  {
+    "id": 4,
+    "cover": "exercise4.jpg",
+    "title": "Defensive Techniques",
+    "short_description": "Learn effective defensive strategies for football.",
+    "age": "14-17",
+    "time": "60 minutes",
+    "author": {
+      "name": "Sarah Brown",
+      "img": "sarah_brown.jpg",
+      "address": "101 Pine Street, City, Country",
+      "weight": "145 lbs",
+      "height": "5'7\"",
+      "age": 32
+    }
+  },
+  {
+    "id": 5,
+    "cover": "exercise5.jpg",
+    "title": "Goalkeeper Drills",
+    "short_description": "Improve your goalkeeping skills with these exercises.",
+    "age": "12-16",
+    "time": "40 minutes",
+    "author": {
+      "name": "David Wilson",
+      "img": "david_wilson.jpg",
+      "address": "222 Maple Street, City, Country",
+      "weight": "180 lbs",
+      "height": "6'3\"",
+      "age": 36
+    }
+  },
+  {
+    "id": 6,
+    "cover": "exercise6.jpg",
+    "title": "Speed and Agility",
+    "short_description": "Enhance your speed and agility on the football field.",
+    "age": "10-15",
+    "time": "30 minutes",
+    "author": {
+      "name": "Emily Davis",
+      "img": "emily_davis.jpg",
+      "address": "333 Cedar Street, City, Country",
+      "weight": "135 lbs",
+      "height": "5'6\"",
+      "age": 29
+    }
+  },
+  {
+    "id": 7,
+    "cover": "exercise7.jpg",
+    "title": "Ball Control Drills",
+    "short_description": "Master ball control with these training exercises.",
+    "age": "9-13",
+    "time": "25 minutes",
+    "author": {
+      "name": "Robert Turner",
+      "img": "robert_turner.jpg",
+      "address": "444 Birch Street, City, Country",
+      "weight": "155 lbs",
+      "height": "5'11\"",
+      "age": 34
+    }
+  },
+  {
+    "id": 8,
+    "cover": "exercise8.jpg",
+    "title": "Tactical Awareness",
+    "short_description": "Develop your understanding of football tactics.",
+    "age": "16-19",
+    "time": "50 minutes",
+    "author": {
+      "name": "Karen Martinez",
+      "img": "karen_martinez.jpg",
+      "address": "555 Redwood Street, City, Country",
+      "weight": "140 lbs",
+      "height": "5'8\"",
+      "age": 31
+    }
+  },
+  {
+    "id": 9,
+    "cover": "exercise9.jpg",
+    "title": "Aerial Skills",
+    "short_description": "Improve your heading and aerial abilities.",
+    "age": "11-14",
+    "time": "35 minutes",
+    "author": {
+      "name": "Daniel Garcia",
+      "img": "daniel_garcia.jpg",
+      "address": "666 Willow Street, City, Country",
+      "weight": "170 lbs",
+      "height": "6'1\"",
+      "age": 37
+    }
+  },
+  {
+    "id": 10,
+    "cover": "exercise10.jpg",
+    "title": "Fitness and Conditioning",
+    "short_description": "Stay in top shape for football with these workouts.",
+    "age": "13-17",
+    "time": "55 minutes",
+    "author": {
+      "name": "Olivia Turner",
+      "img": "olivia_turner.jpg",
+      "address": "777 Oak Street, City, Country",
+      "weight": "150 lbs",
+      "height": "5'10\"",
+      "age": 30
+    }
+  }
+]
