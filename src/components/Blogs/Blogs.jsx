@@ -1,8 +1,9 @@
+/* eslint-disable react/prop-types */
 import { useEffect } from "react";
 import { useState } from "react";
 import Blog from "../Blog/Blog";
 
-const Blogs = () => {
+const Blogs = ({handleExerciseTime}) => {
     const [addExercise, setExercise] = useState([]);
 
     useEffect(()=> {
@@ -17,7 +18,7 @@ const Blogs = () => {
             <p className="text-2xl mt-2">Select todays exercise</p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 my-10">
                 {
-                addExercise.map(exercise => <Blog key={exercise.id} exercise={exercise}></Blog>)
+                addExercise.map(exercise => <Blog key={exercise.id} exercise={exercise} handleExerciseTime={handleExerciseTime}></Blog>)
                 }
             </div>
         </div>

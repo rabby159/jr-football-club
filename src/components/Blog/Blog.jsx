@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-const Blog = ({exercise}) => {
+const Blog = ({exercise, handleExerciseTime}) => {
     const {title, cover, short_description, age, time} = exercise;
     return (
         <div className="">
@@ -12,7 +12,7 @@ const Blog = ({exercise}) => {
                 <h3 className="font-semibold">Age: {age}</h3>
                 <p className="mb-5">Exercise Time: {time} min</p>
                 <div className="card-actions justify-end">
-                <button className="btn btn-primary">Added to List</button>
+                <button className="btn btn-primary" onClick={()=> handleExerciseTime(time)}>Added to List</button>
                 </div>
             </div>
             </div>
